@@ -40,7 +40,7 @@
             android:background="@drawable/information" />
     </RelativeLayout>
 
-    <View
+    <ImageView
         android:id="@+id/view"
         android:layout_width="match_parent"
         android:layout_height="300dp"
